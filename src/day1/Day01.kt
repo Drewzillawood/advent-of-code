@@ -1,3 +1,7 @@
+package day1
+
+import readInput
+
 fun main() {
     fun ints(input: List<String>) = input.map { it.toInt() }.toTypedArray()
 
